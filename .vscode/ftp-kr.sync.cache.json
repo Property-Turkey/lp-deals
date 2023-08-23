@@ -1,0 +1,2443 @@
+{
+  "ftp://pms.propertyturkey.com@propertyturkey": {
+    "public_html": {
+      "real-estate-bodrum": {
+        ".gitignore": {
+          "type": "-",
+          "size": 16,
+          "lmtime": 1692186612039,
+          "modified": false
+        },
+        ".htaccess": {
+          "type": "-",
+          "size": 2222,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".htaccess-bodrum": {
+          "type": "-",
+          "size": 2222,
+          "lmtime": 1675802311000,
+          "modified": false
+        },
+        "LP - BODRUM": {
+          "type": "-",
+          "size": 0,
+          "lmtime": 1675854404446,
+          "modified": false
+        },
+        "configs.php": {
+          "type": "-",
+          "size": 3822,
+          "lmtime": 1675802427000,
+          "modified": false
+        },
+        "css": {
+          "all.css": {
+            "type": "-",
+            "size": 165060,
+            "lmtime": 1692606529519,
+            "modified": false
+          }
+        },
+        "font": {
+          "Montserrat Webfont": {
+            "Montserrat-Black.woff": {
+              "type": "-",
+              "size": 23380,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Black.woff2": {
+              "type": "-",
+              "size": 16592,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-BlackItalic.woff": {
+              "type": "-",
+              "size": 157492,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-BlackItalic.woff2": {
+              "type": "-",
+              "size": 93028,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Bold.woff": {
+              "type": "-",
+              "size": 24396,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Bold.woff2": {
+              "type": "-",
+              "size": 17596,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-BoldItalic.woff": {
+              "type": "-",
+              "size": 161652,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-BoldItalic.woff2": {
+              "type": "-",
+              "size": 96880,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-ExtraBold.woff": {
+              "type": "-",
+              "size": 153628,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-ExtraBold.woff2": {
+              "type": "-",
+              "size": 93320,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-ExtraBoldItalic.woff": {
+              "type": "-",
+              "size": 161292,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-ExtraBoldItalic.woff2": {
+              "type": "-",
+              "size": 97036,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-ExtraLight.woff": {
+              "type": "-",
+              "size": 152108,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-ExtraLight.woff2": {
+              "type": "-",
+              "size": 92804,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-ExtraLightItalic.woff": {
+              "type": "-",
+              "size": 160484,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-ExtraLightItalic.woff2": {
+              "type": "-",
+              "size": 96444,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Hairline.woff": {
+              "type": "-",
+              "size": 23452,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Hairline.woff2": {
+              "type": "-",
+              "size": 17056,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Italic.woff": {
+              "type": "-",
+              "size": 161416,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Italic.woff2": {
+              "type": "-",
+              "size": 97276,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Light.woff": {
+              "type": "-",
+              "size": 24660,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Light.woff2": {
+              "type": "-",
+              "size": 17880,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-LightItalic.woff": {
+              "type": "-",
+              "size": 161160,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-LightItalic.woff2": {
+              "type": "-",
+              "size": 97156,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Medium.woff": {
+              "type": "-",
+              "size": 153492,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Medium.woff2": {
+              "type": "-",
+              "size": 93844,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-MediumItalic.woff": {
+              "type": "-",
+              "size": 161316,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-MediumItalic.woff2": {
+              "type": "-",
+              "size": 97300,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Regular.woff": {
+              "type": "-",
+              "size": 24504,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Regular.woff2": {
+              "type": "-",
+              "size": 17552,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-SemiBold.woff": {
+              "type": "-",
+              "size": 152400,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-SemiBold.woff2": {
+              "type": "-",
+              "size": 92776,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-SemiBoldItalic.woff": {
+              "type": "-",
+              "size": 160992,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-SemiBoldItalic.woff2": {
+              "type": "-",
+              "size": 97000,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Thin.woff": {
+              "type": "-",
+              "size": 146460,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-Thin.woff2": {
+              "type": "-",
+              "size": 88288,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-ThinItalic.woff": {
+              "type": "-",
+              "size": 154748,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Montserrat-ThinItalic.woff2": {
+              "type": "-",
+              "size": 92056,
+              "lmtime": 0,
+              "modified": false
+            },
+            "stylesheet.css": {
+              "type": "-",
+              "size": 4284,
+              "lmtime": 0,
+              "modified": false
+            }
+          }
+        },
+        "form_mdl.php": {
+          "type": "-",
+          "size": 1975,
+          "lmtime": 1675802428000,
+          "modified": false
+        },
+        "img": {
+          "Blog_Thumb_1_Desktop.webp": {
+            "type": "-",
+            "size": 16932,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Blog_Thumb_2_Desktop.webp": {
+            "type": "-",
+            "size": 14716,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Blog_Thumb_3_Desktop.webp": {
+            "type": "-",
+            "size": 24146,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Daily_Mail_Logo.svg": {
+            "type": "-",
+            "size": 42880,
+            "lmtime": 0,
+            "modified": true
+          },
+          "Designer_Turkey_Logo.svg": {
+            "type": "-",
+            "size": 18099,
+            "lmtime": 0,
+            "modified": true
+          },
+          "Facebook_Icon.svg": {
+            "type": "-",
+            "size": 1042,
+            "lmtime": 0,
+            "modified": true
+          },
+          "Financial_Times_Logo.svg": {
+            "type": "-",
+            "size": 5270,
+            "lmtime": 0,
+            "modified": true
+          },
+          "Form_Consultation_Desktop.webp": {
+            "type": "-",
+            "size": 30470,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Form_Contact_Desktop.webp": {
+            "type": "-",
+            "size": 36950,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Form_News_Desktop.webp": {
+            "type": "-",
+            "size": 19814,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Form_Property_Desktop.webp": {
+            "type": "-",
+            "size": 20976,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Funding_Turkey_Logo.svg": {
+            "type": "-",
+            "size": 7280,
+            "lmtime": 0,
+            "modified": true
+          },
+          "Instagram_Icon.svg": {
+            "type": "-",
+            "size": 2503,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Listing_1_Bod_Desktop.webp": {
+            "type": "-",
+            "size": 13558,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Listing_2_Bod_Desktop.webp": {
+            "type": "-",
+            "size": 38240,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Listing_3_Bod_Desktop.webp": {
+            "type": "-",
+            "size": 27440,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Listing_4_Bod_Desktop.webp": {
+            "type": "-",
+            "size": 23550,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Listing_5_Bod_Desktop.webp": {
+            "type": "-",
+            "size": 21850,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Listing_6_Bod_Desktop.webp": {
+            "type": "-",
+            "size": 23784,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Menu_Icon_Mobile.svg": {
+            "type": "-",
+            "size": 456,
+            "lmtime": 0,
+            "modified": true
+          },
+          "Michelin_BlogThumb_Gen_Desktop.webp": {
+            "type": "-",
+            "size": 27366,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Mono_Trustpilot_Logo.svg": {
+            "type": "-",
+            "size": 5403,
+            "lmtime": 0,
+            "modified": true
+          },
+          "NY_Times_Logo.svg": {
+            "type": "-",
+            "size": 8428,
+            "lmtime": 0,
+            "modified": true
+          },
+          "PPC_Bodrum_Feature_Desktop.webp": {
+            "type": "-",
+            "size": 363500,
+            "lmtime": 0,
+            "modified": false
+          },
+          "PPC_Bodrum_Feature_Desktop1200.webp": {
+            "type": "-",
+            "size": 216298,
+            "lmtime": 0,
+            "modified": false
+          },
+          "PPC_Bodrum_Feature_Desktop650.webp": {
+            "type": "-",
+            "size": 91590,
+            "lmtime": 0,
+            "modified": false
+          },
+          "PT_Logo_Header.svg": {
+            "type": "-",
+            "size": 14637,
+            "lmtime": 0,
+            "modified": true
+          },
+          "PT_Logo_Header_Desktop.svg": {
+            "type": "-",
+            "size": 21711,
+            "lmtime": 0,
+            "modified": true
+          },
+          "PT_Logo_Header_Mobile.svg": {
+            "type": "-",
+            "size": 5745,
+            "lmtime": 0,
+            "modified": true
+          },
+          "The_Guardian_Logo.svg": {
+            "type": "-",
+            "size": 11077,
+            "lmtime": 0,
+            "modified": true
+          },
+          "The_Telegraph_Logo.svg": {
+            "type": "-",
+            "size": 9753,
+            "lmtime": 0,
+            "modified": true
+          },
+          "TrustPilot_Stars.svg": {
+            "type": "-",
+            "size": 963,
+            "lmtime": 0,
+            "modified": true
+          },
+          "Trustpilot_5Stars.svg": {
+            "type": "-",
+            "size": 964,
+            "lmtime": 0,
+            "modified": true
+          },
+          "Twitter_Icon.svg": {
+            "type": "-",
+            "size": 1040,
+            "lmtime": 0,
+            "modified": true
+          },
+          "WhatsApp_Icon.svg": {
+            "type": "-",
+            "size": 1418,
+            "lmtime": 0,
+            "modified": true
+          },
+          "WhatsApp_Icon_Mobile.svg": {
+            "type": "-",
+            "size": 1604,
+            "lmtime": 0,
+            "modified": true
+          },
+          "X-Icon.svg": {
+            "type": "-",
+            "size": 496,
+            "lmtime": 0,
+            "modified": true
+          },
+          "YouTube_Icon.svg": {
+            "type": "-",
+            "size": 975,
+            "lmtime": 0,
+            "modified": true
+          },
+          "favicon.ico": {
+            "type": "-",
+            "size": 3626,
+            "lmtime": 1692608209975,
+            "modified": false
+          },
+          "loader.svg": {
+            "type": "-",
+            "size": 529,
+            "lmtime": 0,
+            "modified": false
+          },
+          "message.webp": {
+            "type": "-",
+            "size": 21322,
+            "lmtime": 0,
+            "modified": false
+          },
+          "png100px": {
+            "ad.png": {
+              "type": "-",
+              "size": 2138,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ae.png": {
+              "type": "-",
+              "size": 137,
+              "lmtime": 0,
+              "modified": false
+            },
+            "af.png": {
+              "type": "-",
+              "size": 2816,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ag.png": {
+              "type": "-",
+              "size": 1644,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ai.png": {
+              "type": "-",
+              "size": 1691,
+              "lmtime": 0,
+              "modified": false
+            },
+            "al.png": {
+              "type": "-",
+              "size": 1847,
+              "lmtime": 0,
+              "modified": false
+            },
+            "am.png": {
+              "type": "-",
+              "size": 122,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ao.png": {
+              "type": "-",
+              "size": 1388,
+              "lmtime": 0,
+              "modified": false
+            },
+            "aq.png": {
+              "type": "-",
+              "size": 4779,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ar.png": {
+              "type": "-",
+              "size": 991,
+              "lmtime": 0,
+              "modified": false
+            },
+            "as.png": {
+              "type": "-",
+              "size": 1754,
+              "lmtime": 0,
+              "modified": false
+            },
+            "at.png": {
+              "type": "-",
+              "size": 133,
+              "lmtime": 0,
+              "modified": false
+            },
+            "au.png": {
+              "type": "-",
+              "size": 1643,
+              "lmtime": 0,
+              "modified": false
+            },
+            "aw.png": {
+              "type": "-",
+              "size": 629,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ax.png": {
+              "type": "-",
+              "size": 221,
+              "lmtime": 0,
+              "modified": false
+            },
+            "az.png": {
+              "type": "-",
+              "size": 451,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ba.png": {
+              "type": "-",
+              "size": 741,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bb.png": {
+              "type": "-",
+              "size": 791,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bd.png": {
+              "type": "-",
+              "size": 367,
+              "lmtime": 0,
+              "modified": false
+            },
+            "be.png": {
+              "type": "-",
+              "size": 168,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bf.png": {
+              "type": "-",
+              "size": 560,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bg.png": {
+              "type": "-",
+              "size": 106,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bh.png": {
+              "type": "-",
+              "size": 185,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bi.png": {
+              "type": "-",
+              "size": 1283,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bj.png": {
+              "type": "-",
+              "size": 169,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bl.png": {
+              "type": "-",
+              "size": 167,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bm.png": {
+              "type": "-",
+              "size": 1815,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bn.png": {
+              "type": "-",
+              "size": 2337,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bo.png": {
+              "type": "-",
+              "size": 1441,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bq.png": {
+              "type": "-",
+              "size": 159,
+              "lmtime": 0,
+              "modified": false
+            },
+            "br.png": {
+              "type": "-",
+              "size": 2009,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bs.png": {
+              "type": "-",
+              "size": 501,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bt.png": {
+              "type": "-",
+              "size": 4119,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bv.png": {
+              "type": "-",
+              "size": 260,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bw.png": {
+              "type": "-",
+              "size": 147,
+              "lmtime": 0,
+              "modified": false
+            },
+            "by.png": {
+              "type": "-",
+              "size": 1137,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bz.png": {
+              "type": "-",
+              "size": 1933,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ca.png": {
+              "type": "-",
+              "size": 832,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cc.png": {
+              "type": "-",
+              "size": 1371,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cd.png": {
+              "type": "-",
+              "size": 796,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cf.png": {
+              "type": "-",
+              "size": 504,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cg.png": {
+              "type": "-",
+              "size": 354,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ch.png": {
+              "type": "-",
+              "size": 173,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ci.png": {
+              "type": "-",
+              "size": 165,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ck.png": {
+              "type": "-",
+              "size": 1942,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cl.png": {
+              "type": "-",
+              "size": 517,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cm.png": {
+              "type": "-",
+              "size": 482,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cn.png": {
+              "type": "-",
+              "size": 755,
+              "lmtime": 0,
+              "modified": false
+            },
+            "co.png": {
+              "type": "-",
+              "size": 158,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cr.png": {
+              "type": "-",
+              "size": 883,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cu.png": {
+              "type": "-",
+              "size": 793,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cv.png": {
+              "type": "-",
+              "size": 1040,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cw.png": {
+              "type": "-",
+              "size": 633,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cx.png": {
+              "type": "-",
+              "size": 1549,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cy.png": {
+              "type": "-",
+              "size": 1490,
+              "lmtime": 0,
+              "modified": false
+            },
+            "cz.png": {
+              "type": "-",
+              "size": 394,
+              "lmtime": 0,
+              "modified": false
+            },
+            "de.png": {
+              "type": "-",
+              "size": 106,
+              "lmtime": 0,
+              "modified": false
+            },
+            "dj.png": {
+              "type": "-",
+              "size": 1154,
+              "lmtime": 0,
+              "modified": false
+            },
+            "dk.png": {
+              "type": "-",
+              "size": 200,
+              "lmtime": 0,
+              "modified": false
+            },
+            "dm.png": {
+              "type": "-",
+              "size": 1347,
+              "lmtime": 0,
+              "modified": false
+            },
+            "do.png": {
+              "type": "-",
+              "size": 964,
+              "lmtime": 0,
+              "modified": false
+            },
+            "dz.png": {
+              "type": "-",
+              "size": 891,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ec.png": {
+              "type": "-",
+              "size": 2568,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ee.png": {
+              "type": "-",
+              "size": 190,
+              "lmtime": 0,
+              "modified": false
+            },
+            "eg.png": {
+              "type": "-",
+              "size": 1106,
+              "lmtime": 0,
+              "modified": false
+            },
+            "eh.png": {
+              "type": "-",
+              "size": 656,
+              "lmtime": 0,
+              "modified": false
+            },
+            "er.png": {
+              "type": "-",
+              "size": 1406,
+              "lmtime": 0,
+              "modified": false
+            },
+            "es.png": {
+              "type": "-",
+              "size": 1787,
+              "lmtime": 0,
+              "modified": false
+            },
+            "et.png": {
+              "type": "-",
+              "size": 1302,
+              "lmtime": 0,
+              "modified": false
+            },
+            "eu.png": {
+              "type": "-",
+              "size": 1441,
+              "lmtime": 0,
+              "modified": false
+            },
+            "fi.png": {
+              "type": "-",
+              "size": 186,
+              "lmtime": 0,
+              "modified": false
+            },
+            "fj.png": {
+              "type": "-",
+              "size": 1792,
+              "lmtime": 0,
+              "modified": false
+            },
+            "fk.png": {
+              "type": "-",
+              "size": 1897,
+              "lmtime": 0,
+              "modified": false
+            },
+            "fm.png": {
+              "type": "-",
+              "size": 595,
+              "lmtime": 0,
+              "modified": false
+            },
+            "fo.png": {
+              "type": "-",
+              "size": 260,
+              "lmtime": 0,
+              "modified": false
+            },
+            "fr.png": {
+              "type": "-",
+              "size": 167,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ga.png": {
+              "type": "-",
+              "size": 109,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gb-eng.png": {
+              "type": "-",
+              "size": 99,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gb-nir.png": {
+              "type": "-",
+              "size": 500,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gb-sct.png": {
+              "type": "-",
+              "size": 467,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gb-wls.png": {
+              "type": "-",
+              "size": 5774,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gb.png": {
+              "type": "-",
+              "size": 500,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gd.png": {
+              "type": "-",
+              "size": 1530,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ge.png": {
+              "type": "-",
+              "size": 750,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gf.png": {
+              "type": "-",
+              "size": 167,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gg.png": {
+              "type": "-",
+              "size": 306,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gh.png": {
+              "type": "-",
+              "size": 549,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gi.png": {
+              "type": "-",
+              "size": 1605,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gl.png": {
+              "type": "-",
+              "size": 852,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gm.png": {
+              "type": "-",
+              "size": 185,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gn.png": {
+              "type": "-",
+              "size": 169,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gp.png": {
+              "type": "-",
+              "size": 167,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gq.png": {
+              "type": "-",
+              "size": 1184,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gr.png": {
+              "type": "-",
+              "size": 308,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gs.png": {
+              "type": "-",
+              "size": 2113,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gt.png": {
+              "type": "-",
+              "size": 1370,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gu.png": {
+              "type": "-",
+              "size": 1323,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gw.png": {
+              "type": "-",
+              "size": 434,
+              "lmtime": 0,
+              "modified": false
+            },
+            "gy.png": {
+              "type": "-",
+              "size": 1006,
+              "lmtime": 0,
+              "modified": false
+            },
+            "hk.png": {
+              "type": "-",
+              "size": 1508,
+              "lmtime": 0,
+              "modified": false
+            },
+            "hm.png": {
+              "type": "-",
+              "size": 1643,
+              "lmtime": 0,
+              "modified": false
+            },
+            "hn.png": {
+              "type": "-",
+              "size": 430,
+              "lmtime": 0,
+              "modified": false
+            },
+            "hr.png": {
+              "type": "-",
+              "size": 1160,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ht.png": {
+              "type": "-",
+              "size": 874,
+              "lmtime": 0,
+              "modified": false
+            },
+            "hu.png": {
+              "type": "-",
+              "size": 128,
+              "lmtime": 0,
+              "modified": false
+            },
+            "id.png": {
+              "type": "-",
+              "size": 109,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ie.png": {
+              "type": "-",
+              "size": 124,
+              "lmtime": 0,
+              "modified": false
+            },
+            "il.png": {
+              "type": "-",
+              "size": 659,
+              "lmtime": 0,
+              "modified": false
+            },
+            "im.png": {
+              "type": "-",
+              "size": 1356,
+              "lmtime": 0,
+              "modified": false
+            },
+            "in.png": {
+              "type": "-",
+              "size": 944,
+              "lmtime": 0,
+              "modified": false
+            },
+            "io.png": {
+              "type": "-",
+              "size": 2991,
+              "lmtime": 0,
+              "modified": false
+            },
+            "iq.png": {
+              "type": "-",
+              "size": 806,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ir.png": {
+              "type": "-",
+              "size": 2230,
+              "lmtime": 0,
+              "modified": false
+            },
+            "is.png": {
+              "type": "-",
+              "size": 127,
+              "lmtime": 0,
+              "modified": false
+            },
+            "it.png": {
+              "type": "-",
+              "size": 149,
+              "lmtime": 0,
+              "modified": false
+            },
+            "je.png": {
+              "type": "-",
+              "size": 1337,
+              "lmtime": 0,
+              "modified": false
+            },
+            "jm.png": {
+              "type": "-",
+              "size": 257,
+              "lmtime": 0,
+              "modified": false
+            },
+            "jo.png": {
+              "type": "-",
+              "size": 416,
+              "lmtime": 0,
+              "modified": false
+            },
+            "jp.png": {
+              "type": "-",
+              "size": 546,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ke.png": {
+              "type": "-",
+              "size": 1394,
+              "lmtime": 0,
+              "modified": false
+            },
+            "kg.png": {
+              "type": "-",
+              "size": 1814,
+              "lmtime": 0,
+              "modified": false
+            },
+            "kh.png": {
+              "type": "-",
+              "size": 1558,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ki.png": {
+              "type": "-",
+              "size": 1902,
+              "lmtime": 0,
+              "modified": false
+            },
+            "km.png": {
+              "type": "-",
+              "size": 912,
+              "lmtime": 0,
+              "modified": false
+            },
+            "kn.png": {
+              "type": "-",
+              "size": 1243,
+              "lmtime": 0,
+              "modified": false
+            },
+            "kp.png": {
+              "type": "-",
+              "size": 735,
+              "lmtime": 0,
+              "modified": false
+            },
+            "kr.png": {
+              "type": "-",
+              "size": 2101,
+              "lmtime": 0,
+              "modified": false
+            },
+            "kw.png": {
+              "type": "-",
+              "size": 324,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ky.png": {
+              "type": "-",
+              "size": 1719,
+              "lmtime": 0,
+              "modified": false
+            },
+            "kz.png": {
+              "type": "-",
+              "size": 1869,
+              "lmtime": 0,
+              "modified": false
+            },
+            "la.png": {
+              "type": "-",
+              "size": 437,
+              "lmtime": 0,
+              "modified": false
+            },
+            "lb.png": {
+              "type": "-",
+              "size": 1199,
+              "lmtime": 0,
+              "modified": false
+            },
+            "lc.png": {
+              "type": "-",
+              "size": 1085,
+              "lmtime": 0,
+              "modified": false
+            },
+            "li.png": {
+              "type": "-",
+              "size": 1015,
+              "lmtime": 0,
+              "modified": false
+            },
+            "lk.png": {
+              "type": "-",
+              "size": 1865,
+              "lmtime": 0,
+              "modified": false
+            },
+            "lr.png": {
+              "type": "-",
+              "size": 494,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ls.png": {
+              "type": "-",
+              "size": 932,
+              "lmtime": 0,
+              "modified": false
+            },
+            "lt.png": {
+              "type": "-",
+              "size": 107,
+              "lmtime": 0,
+              "modified": false
+            },
+            "lu.png": {
+              "type": "-",
+              "size": 107,
+              "lmtime": 0,
+              "modified": false
+            },
+            "lv.png": {
+              "type": "-",
+              "size": 98,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ly.png": {
+              "type": "-",
+              "size": 404,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ma.png": {
+              "type": "-",
+              "size": 678,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mc.png": {
+              "type": "-",
+              "size": 98,
+              "lmtime": 0,
+              "modified": false
+            },
+            "md.png": {
+              "type": "-",
+              "size": 1408,
+              "lmtime": 0,
+              "modified": false
+            },
+            "me.png": {
+              "type": "-",
+              "size": 1858,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mf.png": {
+              "type": "-",
+              "size": 167,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mg.png": {
+              "type": "-",
+              "size": 192,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mh.png": {
+              "type": "-",
+              "size": 1901,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mk.png": {
+              "type": "-",
+              "size": 513,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ml.png": {
+              "type": "-",
+              "size": 165,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mm.png": {
+              "type": "-",
+              "size": 953,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mn.png": {
+              "type": "-",
+              "size": 773,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mo.png": {
+              "type": "-",
+              "size": 1517,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mp.png": {
+              "type": "-",
+              "size": 2092,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mq.png": {
+              "type": "-",
+              "size": 167,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mr.png": {
+              "type": "-",
+              "size": 817,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ms.png": {
+              "type": "-",
+              "size": 1663,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mt.png": {
+              "type": "-",
+              "size": 608,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mu.png": {
+              "type": "-",
+              "size": 166,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mv.png": {
+              "type": "-",
+              "size": 429,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mw.png": {
+              "type": "-",
+              "size": 1262,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mx.png": {
+              "type": "-",
+              "size": 1380,
+              "lmtime": 0,
+              "modified": false
+            },
+            "my.png": {
+              "type": "-",
+              "size": 1198,
+              "lmtime": 0,
+              "modified": false
+            },
+            "mz.png": {
+              "type": "-",
+              "size": 1914,
+              "lmtime": 0,
+              "modified": false
+            },
+            "na.png": {
+              "type": "-",
+              "size": 1176,
+              "lmtime": 0,
+              "modified": false
+            },
+            "nc.png": {
+              "type": "-",
+              "size": 167,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ne.png": {
+              "type": "-",
+              "size": 355,
+              "lmtime": 0,
+              "modified": false
+            },
+            "nf.png": {
+              "type": "-",
+              "size": 1313,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ng.png": {
+              "type": "-",
+              "size": 108,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ni.png": {
+              "type": "-",
+              "size": 762,
+              "lmtime": 0,
+              "modified": false
+            },
+            "nl.png": {
+              "type": "-",
+              "size": 159,
+              "lmtime": 0,
+              "modified": false
+            },
+            "no.png": {
+              "type": "-",
+              "size": 260,
+              "lmtime": 0,
+              "modified": false
+            },
+            "noimg.png": {
+              "type": "-",
+              "size": 3109,
+              "lmtime": 0,
+              "modified": false
+            },
+            "np.png": {
+              "type": "-",
+              "size": 3225,
+              "lmtime": 0,
+              "modified": false
+            },
+            "nr.png": {
+              "type": "-",
+              "size": 460,
+              "lmtime": 0,
+              "modified": false
+            },
+            "nu.png": {
+              "type": "-",
+              "size": 1450,
+              "lmtime": 0,
+              "modified": false
+            },
+            "nz.png": {
+              "type": "-",
+              "size": 1013,
+              "lmtime": 0,
+              "modified": false
+            },
+            "om.png": {
+              "type": "-",
+              "size": 524,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pa.png": {
+              "type": "-",
+              "size": 541,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pe.png": {
+              "type": "-",
+              "size": 2280,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pf.png": {
+              "type": "-",
+              "size": 1616,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pg.png": {
+              "type": "-",
+              "size": 1763,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ph.png": {
+              "type": "-",
+              "size": 1348,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pk.png": {
+              "type": "-",
+              "size": 904,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pl.png": {
+              "type": "-",
+              "size": 146,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pm.png": {
+              "type": "-",
+              "size": 167,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pn.png": {
+              "type": "-",
+              "size": 2185,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pr.png": {
+              "type": "-",
+              "size": 1306,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ps.png": {
+              "type": "-",
+              "size": 385,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pt.png": {
+              "type": "-",
+              "size": 1772,
+              "lmtime": 0,
+              "modified": false
+            },
+            "pw.png": {
+              "type": "-",
+              "size": 728,
+              "lmtime": 0,
+              "modified": false
+            },
+            "py.png": {
+              "type": "-",
+              "size": 670,
+              "lmtime": 0,
+              "modified": false
+            },
+            "qa.png": {
+              "type": "-",
+              "size": 933,
+              "lmtime": 0,
+              "modified": false
+            },
+            "re.png": {
+              "type": "-",
+              "size": 167,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ro.png": {
+              "type": "-",
+              "size": 169,
+              "lmtime": 0,
+              "modified": false
+            },
+            "rs.png": {
+              "type": "-",
+              "size": 1993,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ru.png": {
+              "type": "-",
+              "size": 138,
+              "lmtime": 0,
+              "modified": false
+            },
+            "rw.png": {
+              "type": "-",
+              "size": 1058,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sa.png": {
+              "type": "-",
+              "size": 1790,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sb.png": {
+              "type": "-",
+              "size": 958,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sc.png": {
+              "type": "-",
+              "size": 536,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sd.png": {
+              "type": "-",
+              "size": 374,
+              "lmtime": 0,
+              "modified": false
+            },
+            "se.png": {
+              "type": "-",
+              "size": 173,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sg.png": {
+              "type": "-",
+              "size": 927,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sh.png": {
+              "type": "-",
+              "size": 500,
+              "lmtime": 0,
+              "modified": false
+            },
+            "si.png": {
+              "type": "-",
+              "size": 585,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sj.png": {
+              "type": "-",
+              "size": 260,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sk.png": {
+              "type": "-",
+              "size": 1363,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sl.png": {
+              "type": "-",
+              "size": 138,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sm.png": {
+              "type": "-",
+              "size": 2134,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sn.png": {
+              "type": "-",
+              "size": 555,
+              "lmtime": 0,
+              "modified": false
+            },
+            "so.png": {
+              "type": "-",
+              "size": 661,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sr.png": {
+              "type": "-",
+              "size": 467,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ss.png": {
+              "type": "-",
+              "size": 817,
+              "lmtime": 0,
+              "modified": false
+            },
+            "st.png": {
+              "type": "-",
+              "size": 487,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sv.png": {
+              "type": "-",
+              "size": 1129,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sx.png": {
+              "type": "-",
+              "size": 2623,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sy.png": {
+              "type": "-",
+              "size": 625,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sz.png": {
+              "type": "-",
+              "size": 2397,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tc.png": {
+              "type": "-",
+              "size": 1367,
+              "lmtime": 0,
+              "modified": false
+            },
+            "td.png": {
+              "type": "-",
+              "size": 154,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tf.png": {
+              "type": "-",
+              "size": 997,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tg.png": {
+              "type": "-",
+              "size": 628,
+              "lmtime": 0,
+              "modified": false
+            },
+            "th.png": {
+              "type": "-",
+              "size": 155,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tj.png": {
+              "type": "-",
+              "size": 679,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tk.png": {
+              "type": "-",
+              "size": 1544,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tl.png": {
+              "type": "-",
+              "size": 703,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tm.png": {
+              "type": "-",
+              "size": 2216,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tn.png": {
+              "type": "-",
+              "size": 915,
+              "lmtime": 0,
+              "modified": false
+            },
+            "to.png": {
+              "type": "-",
+              "size": 184,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tr.png": {
+              "type": "-",
+              "size": 879,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tt.png": {
+              "type": "-",
+              "size": 1891,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tv.png": {
+              "type": "-",
+              "size": 1797,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tw.png": {
+              "type": "-",
+              "size": 676,
+              "lmtime": 0,
+              "modified": false
+            },
+            "tz.png": {
+              "type": "-",
+              "size": 543,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ua.png": {
+              "type": "-",
+              "size": 115,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ug.png": {
+              "type": "-",
+              "size": 1078,
+              "lmtime": 0,
+              "modified": false
+            },
+            "um.png": {
+              "type": "-",
+              "size": 754,
+              "lmtime": 0,
+              "modified": false
+            },
+            "us.png": {
+              "type": "-",
+              "size": 756,
+              "lmtime": 0,
+              "modified": false
+            },
+            "uy.png": {
+              "type": "-",
+              "size": 1513,
+              "lmtime": 0,
+              "modified": false
+            },
+            "uz.png": {
+              "type": "-",
+              "size": 523,
+              "lmtime": 0,
+              "modified": false
+            },
+            "va.png": {
+              "type": "-",
+              "size": 3176,
+              "lmtime": 0,
+              "modified": false
+            },
+            "vc.png": {
+              "type": "-",
+              "size": 826,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ve.png": {
+              "type": "-",
+              "size": 814,
+              "lmtime": 0,
+              "modified": false
+            },
+            "vg.png": {
+              "type": "-",
+              "size": 1935,
+              "lmtime": 0,
+              "modified": false
+            },
+            "vi.png": {
+              "type": "-",
+              "size": 6402,
+              "lmtime": 0,
+              "modified": false
+            },
+            "vn.png": {
+              "type": "-",
+              "size": 723,
+              "lmtime": 0,
+              "modified": false
+            },
+            "vu.png": {
+              "type": "-",
+              "size": 1835,
+              "lmtime": 0,
+              "modified": false
+            },
+            "wf.png": {
+              "type": "-",
+              "size": 408,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ws.png": {
+              "type": "-",
+              "size": 471,
+              "lmtime": 0,
+              "modified": false
+            },
+            "xk.png": {
+              "type": "-",
+              "size": 1506,
+              "lmtime": 0,
+              "modified": false
+            },
+            "ye.png": {
+              "type": "-",
+              "size": 159,
+              "lmtime": 0,
+              "modified": false
+            },
+            "yt.png": {
+              "type": "-",
+              "size": 167,
+              "lmtime": 0,
+              "modified": false
+            },
+            "za.png": {
+              "type": "-",
+              "size": 410,
+              "lmtime": 0,
+              "modified": false
+            },
+            "zm.png": {
+              "type": "-",
+              "size": 898,
+              "lmtime": 0,
+              "modified": false
+            },
+            "zw.png": {
+              "type": "-",
+              "size": 1141,
+              "lmtime": 0,
+              "modified": false
+            }
+          }
+        },
+        "index.php": {
+          "type": "-",
+          "size": 31173,
+          "lmtime": 1676382756478,
+          "modified": false
+        },
+        "js": {
+          "all.js": {
+            "type": "-",
+            "size": 138953,
+            "lmtime": 0,
+            "modified": false
+          },
+          "countries.json": {
+            "type": "-",
+            "size": 30730,
+            "lmtime": 0,
+            "modified": false
+          }
+        },
+        "locale.php": {
+          "type": "-",
+          "size": 7788,
+          "lmtime": 1676382745105,
+          "modified": false
+        },
+        "message_mdl.php": {
+          "type": "-",
+          "size": 1070,
+          "lmtime": 1675802432000,
+          "modified": false
+        },
+        "send.php": {
+          "type": "-",
+          "size": 521,
+          "lmtime": 1675802433000,
+          "modified": false
+        }
+      },
+      "real-estate-deals": {
+        ".htaccess": {
+          "type": "-",
+          "size": 2216,
+          "lmtime": 0,
+          "modified": false
+        },
+        "LP - GEN": {
+          "type": "-",
+          "size": 0,
+          "lmtime": 0,
+          "modified": false
+        },
+        "configs.php": {
+          "type": "-",
+          "size": 3822,
+          "lmtime": 0,
+          "modified": false
+        },
+        "css": {},
+        "error_log": {
+          "type": "-",
+          "size": 2172,
+          "lmtime": 0,
+          "modified": true
+        },
+        "font": {},
+        "img": {
+          "Antalya-Banner-lg.webp": {
+            "type": "-",
+            "size": 18936,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Antalya-Listing-1-lg.webp": {
+            "type": "-",
+            "size": 89180,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Antalya-Listing-2-lg.webp": {
+            "type": "-",
+            "size": 55732,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Antalya-Listing-3-lg.webp": {
+            "type": "-",
+            "size": 65022,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Bodrum-Banner-lg.webp": {
+            "type": "-",
+            "size": 21228,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Bodrum-Listing-1-lg.webp": {
+            "type": "-",
+            "size": 56416,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Bodrum-Listing-2-lg.webp": {
+            "type": "-",
+            "size": 61690,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Bodrum-Listing-3-lg.webp": {
+            "type": "-",
+            "size": 46380,
+            "lmtime": 0,
+            "modified": false
+          },
+          "BosphorusBridge_BG-lg.webp": {
+            "type": "-",
+            "size": 513200,
+            "lmtime": 0,
+            "modified": false
+          },
+          "BosphorusBridge_BG-sm.webp": {
+            "type": "-",
+            "size": 15900,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Bursa-Banner-lg.webp": {
+            "type": "-",
+            "size": 17728,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Bursa-Listing-1-lg.webp": {
+            "type": "-",
+            "size": 71716,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Bursa-Listing-2-lg.webp": {
+            "type": "-",
+            "size": 42092,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Bursa-Listing-3-lg.webp": {
+            "type": "-",
+            "size": 47456,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Ellipse-Gray.webp": {
+            "type": "-",
+            "size": 294,
+            "lmtime": 0,
+            "modified": false
+          },
+          "FeaturedCD-lg.webp": {
+            "type": "-",
+            "size": 12864,
+            "lmtime": 0,
+            "modified": false
+          },
+          "FeaturedCD-sm.webp": {
+            "type": "-",
+            "size": 4506,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Fethiye-Banner-lg.webp": {
+            "type": "-",
+            "size": 15604,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Fethiye-Listing-1-lg.webp": {
+            "type": "-",
+            "size": 44726,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Fethiye-Listing-2-lg.webp": {
+            "type": "-",
+            "size": 87372,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Fethiye-Listing-3-lg.webp": {
+            "type": "-",
+            "size": 36274,
+            "lmtime": 0,
+            "modified": false
+          },
+          "FoundedbyCD-lg.webp": {
+            "type": "-",
+            "size": 176952,
+            "lmtime": 0,
+            "modified": false
+          },
+          "FoundedbyCD-sm.webp": {
+            "type": "-",
+            "size": 11278,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Istanbul-Banner-lg.webp": {
+            "type": "-",
+            "size": 22134,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Istanbul-Listing-1-lg.webp": {
+            "type": "-",
+            "size": 45608,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Istanbul-Listing-2-lg.webp": {
+            "type": "-",
+            "size": 64512,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Istanbul-Listing-3-lg.webp": {
+            "type": "-",
+            "size": 38814,
+            "lmtime": 0,
+            "modified": false
+          },
+          "L&I.svg": {
+            "type": "-",
+            "size": 11483,
+            "lmtime": 0,
+            "modified": false
+          },
+          "PT-Logo-lg.svg": {
+            "type": "-",
+            "size": 3212,
+            "lmtime": 0,
+            "modified": false
+          },
+          "PTE-Diagram.svg": {
+            "type": "-",
+            "size": 126415,
+            "lmtime": 0,
+            "modified": false
+          },
+          "PTEcosystem-logo.svg": {
+            "type": "-",
+            "size": 1350,
+            "lmtime": 0,
+            "modified": false
+          },
+          "PartnerLogos.svg": {
+            "type": "-",
+            "size": 60779,
+            "lmtime": 0,
+            "modified": false
+          },
+          "STThumb_lg.webp": {
+            "type": "-",
+            "size": 68918,
+            "lmtime": 0,
+            "modified": false
+          },
+          "StraightTalk-Logo-wh.svg": {
+            "type": "-",
+            "size": 8113,
+            "lmtime": 0,
+            "modified": false
+          },
+          "TalkWithPT.svg": {
+            "type": "-",
+            "size": 5025,
+            "lmtime": 0,
+            "modified": false
+          },
+          "TrustPilot-5Stars.svg": {
+            "type": "-",
+            "size": 1066,
+            "lmtime": 0,
+            "modified": false
+          },
+          "Trustpilot-Logo.svg": {
+            "type": "-",
+            "size": 5419,
+            "lmtime": 0,
+            "modified": false
+          },
+          "favicon.ico": {
+            "type": "-",
+            "size": 3626,
+            "lmtime": 1692608209975,
+            "modified": false
+          },
+          "gif": {},
+          "loader.svg": {
+            "type": "-",
+            "size": 529,
+            "lmtime": 0,
+            "modified": false
+          },
+          "png100px": {},
+          "since2001--.svg": {
+            "type": "-",
+            "size": 418,
+            "lmtime": 0,
+            "modified": false
+          },
+          "since2001.svg": {
+            "type": "-",
+            "size": 13822,
+            "lmtime": 0,
+            "modified": false
+          },
+          "youtube-brands.svg": {
+            "type": "-",
+            "size": 673,
+            "lmtime": 0,
+            "modified": false
+          }
+        },
+        "index.php": {
+          "type": "-",
+          "size": 36273,
+          "lmtime": 1692709088912,
+          "modified": false
+        },
+        "js": {},
+        "locale.php": {
+          "type": "-",
+          "size": 6408,
+          "lmtime": 0,
+          "modified": false
+        },
+        "message_mdl.php": {
+          "type": "-",
+          "size": 1187,
+          "lmtime": 0,
+          "modified": false
+        },
+        "real-estate-deals.zip": {
+          "type": "-",
+          "size": 6062150,
+          "lmtime": 0,
+          "modified": false
+        },
+        "real-estate-ecosystem--.zip": {
+          "type": "-",
+          "size": 5615796,
+          "lmtime": 0,
+          "modified": false
+        },
+        "send.php": {
+          "type": "-",
+          "size": 521,
+          "lmtime": 0,
+          "modified": false
+        },
+        "vid": {},
+        "video_mdl.php": {
+          "type": "-",
+          "size": 1634,
+          "lmtime": 0,
+          "modified": false
+        }
+      }
+    }
+  },
+  "$version": 1
+}
